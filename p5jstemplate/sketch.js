@@ -7,5 +7,5 @@ function draw() {
   fill(255);
   noStroke();
   textSize(36);
-  text("Hello!",10,18);
+  text("Hello!",10,30);
 }
