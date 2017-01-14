@@ -4,8 +4,7 @@ function setup() {
 
 function draw() {
   background(0);
-  fill(255);
+  fill(255,0,255);
   noStroke();
-  textSize(36);
-  text("Hello!",10,35);
+  rect(width/2, height/2, width/3, height/3);
 }
